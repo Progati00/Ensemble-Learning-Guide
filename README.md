@@ -1,1 +1,1 @@
-# Ensemble_Learning
+# A comprehensive guide to Bagging, Random Forest, and Stacking, covering both theory and practical implementations in Python. Includes feature importance analysis, OOB score, hyperparameter tuning, and performance evaluation using metrics like ROC-AUC, Precision-Recall, and Confusion Matrix.
